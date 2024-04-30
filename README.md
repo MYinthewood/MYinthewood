@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mengyuan.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently learning AI.
 
 <!---
 MYinthewood/MYinthewood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
