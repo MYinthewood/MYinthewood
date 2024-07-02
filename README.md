@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mengyuan.
-- 👀 I’m interested in Data Science and Image Recognition.
+- 👀 I’m interested in Data Science and Image Segmentation.
 - 🌱 I’m currently learning LLM.
 
 <!---
